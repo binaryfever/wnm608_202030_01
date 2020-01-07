@@ -11,3 +11,14 @@ Hamilton Cline
 ## Recipes
 
 - https://hdraws.com/aau/wnm608_02/cline.hamilton/recipes
+
+## Example Sites
+
+### Landing/Main Page
+
+- https://amazon.com
+- https://stripe.com
+- https://airbnb.com
+- https://bitrise.io
+- https://joinhoney.com
+- https://samsung.com/us/mobile/galaxy-note10
